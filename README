@@ -15,8 +15,3 @@ case we give full salary and fire him.
 if participant kind of structures to prevent some security leaks.With transfer function i was able to send money from contract
 to dealer.Others can send money to contract by payable function.
 
-
-
-/* Hocam output cıkarmak bana cok  karısık geldiği için bazı yerleri deneyemedim ama algoritmayı kafamda iyi oturtmaya çalıştım
-payable , transfer kısımlarını biraz geç öğrendim o yüzden karıştırmış olabilirim fazla kaynak da bulamadım.Elimden gleeni
-yaptım*/
