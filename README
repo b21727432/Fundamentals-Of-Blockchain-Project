@@ -1,0 +1,22 @@
+TAXİ BUSİNESS ASSİGNMENT
+
+Ali Kayadibi
+
+	In this project I made a business where we collect money from participants, buy a taxi from car dealer
+and run this taxi with a taxi driver.Participants gives money to manager and manager deals with these kind of 
+things.After collecting money  car dealer proposes a car, participants vote for that car if we get majority we buy
+this car, manager pays to dealer.After that we select driver but participants must approve driver.If we approve using
+majority we set the driver and he starts working.He runs taxi for us and we pay salary to him.After some time we share
+what we learned so far between participants.We subtract taxi driver's salary and divide whats left between participants.
+We also have functions in case where car dealer might want to buy taxi from us.In that case dealer proposes a price for
+taxi, we ask for participants if we get majority we sell that car and we got cars money.We can also fire driver in that
+case we give full salary and fire him.
+	I mostly used structs because there are lots of objects with unique attributes in that case.I also used if voted,
+if participant kind of structures to prevent some security leaks.With transfer function i was able to send money from contract
+to dealer.Others can send money to contract by payable function.
+
+
+
+/* Hocam output cıkarmak bana cok  karısık geldiği için bazı yerleri deneyemedim ama algoritmayı kafamda iyi oturtmaya çalıştım
+payable , transfer kısımlarını biraz geç öğrendim o yüzden karıştırmış olabilirim fazla kaynak da bulamadım.Elimden gleeni
+yaptım*/
